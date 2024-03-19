@@ -1,0 +1,7 @@
+# Ignore everything
+*
+
+# But not these files...
+!hardcore
+!hardcore.fwl
+!hardcore.fwl.old
